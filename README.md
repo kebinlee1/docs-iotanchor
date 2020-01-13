@@ -29,7 +29,7 @@ $ cd <dir_name>
 
 # run in local pc for editing live viewing in browser
 $ mkdocs serve 
-## open localhost:8000 end edit dpcs/sample/sample.md
+## open localhost:8000 and edit docs/sample/sample.md
 
 ## Edit md files | add folders/files
 ## git add. | commit | push to orinial master
