@@ -35,8 +35,10 @@ $ mkdocs serve
 ## git add. | commit | push to orinial master
 ```
 
+## Preview using VS code Editor
+* [Install VS code:](https://code.visualstudio.com/download)
 * Able to **pre-view the markdown files in html style**
     - Open md file
     - shorcut: Ctrl+K V
     - or Click as below image
-![Material image (Starter Kit)](docs/_images/preview-mdfile.png)
+![Material image (Starter Kit)](docs/assets/images/preview-mdfile.png)
