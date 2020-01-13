@@ -1,7 +1,7 @@
-# Welcome to tools-anchor5 !
+# Welcome to Anchor5 !
 Anchor5 is ARM quad core SoM based open hardware platform.
 The tools-anchor5 include tools for download and update firmware on Anchor5 .  You can find detail information for Tizen OS on this web site.
-> www.dignsys.com
+> www.iotanchor.com
 
 Anchor5 support Tizen OS. You can find detail information for Tizen OS on this web site.
 > https://www.tizen.org/
