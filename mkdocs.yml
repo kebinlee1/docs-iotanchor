@@ -1,0 +1,60 @@
+# Project info
+site_name: 'Iot Anchor Docs'
+site_description: 'iotanchor.com Documents'
+site_author: 'HB Ahn, Kebin Lee'
+site_url: 'http://iotanchor.com'
+
+# Repository
+# repo_name: ''
+# repo_url: ''
+
+# Copyright
+copyright: 'Copyright &copy; 2020 www.iotanchor.com'
+
+# Sidebar Page tree customization
+nav:
+  - HOME: 'index.md'  
+  - Samples: 
+    - 'Sample MD File': 'samples/sample.md'
+
+# Configuration
+docs_dir: 'docs'
+theme:
+  name: 'material'
+  # custom_dir: 'theme' # override theme
+  # font:
+  #   text: 'Ubuntu'
+  #   code: 'Ubuntu Mono'
+  language: 'en' # kr word can be searched only if kr set
+  logo:
+    icon: 'home'
+  palette:
+    # primary: 'indigo'
+    # accent: 'indigo'
+    # primary: 'pink'
+    # accent: 'pink'
+    primary: 'blue'
+    accent: 'blue'
+  # feature:
+  #   tabs: true
+
+extra_css:
+  - assets/css/custom.css
+# - dist/css/bootstrap-select.min.css
+# extra_javascript:
+# - dist/js/bootstrap-select.min.js
+
+# extra:
+#   search:
+#     language: 'en' # default en, kr is not supported
+#   social:
+#     - type: 'github'
+#       link: 'https://github.com/squidfunk'
+#     - type: 'twitter'
+#       link: 'https://twitter.com/squidfunk'
+#     - type: 'linkedin'
+#       link: 'https://linkedin.com/in/squidfunk'
+ 
+markdown_extensions:
+  - codehilite:
+      linenums: true
