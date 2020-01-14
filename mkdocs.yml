@@ -12,10 +12,10 @@ site_url: 'http://iotanchor.com'
 copyright: 'Copyright &copy; 2020 www.iotanchor.com'
 
 # Sidebar Page tree customization
-nav:
-  - HOME: 'index.md'  
-  - Samples: 
-    - 'Sample MD File': 'samples/sample.md'
+# nav:
+#   - HOME: 'index.md'  
+#   - Samples: 
+#     - 'Sample MD File': 'samples/sample.md'
 
 # Configuration
 docs_dir: 'docs'
